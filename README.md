@@ -8,13 +8,14 @@ Currently involved as a back-end developer (Intern Trainee) with Alx Africa, wit
 Having added a knowledge of DevOps, I bring maximum value to your tech team. 
 We can have a chat via Email: Chigoanagor@gmail.com or send a direct message.
 Feel free to reach out to me for collaborations and projects.
-"""
+```
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chigozieanagor&label=Profile%20views&color=0e75b6&style=flat" alt="chigozieanagor" /> </p>
-"""
+```
 [![](https://raw.githubusercontent.com/Chigozieanagor/status/master/profile-summary-card-output/darcula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-
+```
 [![](https://raw.githubusercontent.com/Chigozieanagor/status/master/profile-summary-card-output/darcula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Chigozieanagor/status/master/profile-summary-card-output/darcula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 [![](https://raw.githubusercontent.com/Chigozieanagor/status/master/profile-summary-card-output/darcula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Chigozieanagor/status/master/profile-summary-card-output/darcula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
